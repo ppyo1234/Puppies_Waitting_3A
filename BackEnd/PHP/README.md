@@ -18,7 +18,7 @@ PHP (Hypertext Preprocessor) es un lenguaje de programación del lado del servid
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|José Arturo Garcia González|[@ppyo1234](https://github.com/ppyo1234)|Líder de Desarrollo BackEnd✅ Revisado y aprobado.|
+|José Arturo Garcia González|[@ppyo1234](https://github.com/ppyo1234)|Líder de Desarrollo BackEnd| ✅ Revisado y aprobado.|
 |Carlos Daniel Garcia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador BD|😔 Falta por revisar.|
 |Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|Documentador|😔 Falta por revisar.|
 |Sayurid Bautista Cruz|[@Sayuridbc](https://github.com/sayuridbc)|Desarrollador FrontEnd|😔 Falta por revisar.|
