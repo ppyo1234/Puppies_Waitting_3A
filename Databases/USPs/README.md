@@ -5,7 +5,7 @@
 
 >IntegradoraI-Puppies-Waiting<br>
 >|.-Backend <br>
->|.-Database <br>
+>|.-Databases <br>
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- Data Dictionary<br>
 >&nbsp;&nbsp;|- Diagrams<br>

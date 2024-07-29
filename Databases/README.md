@@ -1,4 +1,4 @@
-# Database ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+# Databases ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
  En esta sección se encontrarán archivos relacionados con la base de datos que dan la funcionalidad operativa a la aplicación web, además de la conexión y configuración a la Base de Datos Relacional (SQL) que permitirá la persistencia de los datos recolectados. 
 
@@ -6,7 +6,7 @@
 
 >IntegradoraI-Puppies-Waiting<br>
 >|.-Backend <br>
->|**.-Database** <br>
+>|**.-Databases** <br>
 >&nbsp;&nbsp;|- Backups<br>
 >&nbsp;&nbsp;|- Data Dictionary<br>
 >&nbsp;&nbsp;|- Diagrams<br>
