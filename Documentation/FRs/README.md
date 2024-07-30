@@ -1,7 +1,7 @@
 # FRs   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-en este apartado se muestran los requisitos funcionales que especifican qué debe hacer el sistema, describiendo las funciones y características específicas que debe tener para que funcione como debe de funcionar el sistema.
+En este apartado se muestran los requisitos funcionales que especifican qué debe hacer el sistema, describiendo las funciones y características específicas que debe tener para que funcione como debe de funcionar el sistema.
 
 ## Estructura de Archivos 
 
