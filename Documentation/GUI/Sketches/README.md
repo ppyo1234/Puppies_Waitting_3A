@@ -14,7 +14,7 @@ En esta sección subiremos los diagramas o representaciones visuales que ayudan 
 >&nbsp;&nbsp;|- Mockups <br>
 >&nbsp;&nbsp;|- Prototype <br>
 >&nbsp;&nbsp;|- SiteMap <br>
->&nbsp;&nbsp;**|- Sketches** <br>
+>&nbsp;&nbsp;**|- Sketches**<br>
 >&nbsp;&nbsp;|- Wireframes <br>
 >&nbsp;&nbsp;|- Instalation Manual <br>
 >&nbsp;&nbsp;|- NFRs <br>
