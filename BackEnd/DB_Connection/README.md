@@ -2,7 +2,14 @@
 
 
 
- En esta sección se encontrarán las conecciónes de la base de datos de la pagina web que se esta desarrollando 
+ En esta sección se encontrarán las conecciónes de la base de datos de la aplicación web que se esta desarrollando utilizando Node.js y Express.
+
+ ## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/puppies_waiting.git
+   cd puppies_waiting
 
 ## Estructura de Archivos
 

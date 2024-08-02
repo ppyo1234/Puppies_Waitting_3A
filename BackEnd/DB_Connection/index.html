@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Puppies Waiting</title>
+</head>
+<body>
+    <!--Ejemplo de como se conectaria sobre el html -->
+  <h1>Lista de Perritos en Espera</h1>
+  <ul id="puppies-lista"></ul>
+
+  <script>
+    // Hacer una solicitud a la API del backend
+    fetch('http://localhost:3000/api/puppies')
+      .then(response => response.json())
+      .then(data => {
+        const lista = document.getElementById('puppies-lista');
+        data.forEach(item => {
+          const listItem = document.createElement('li');
+          listItem.textContent = JSON.stringify(item);
+          lista.appendChild(listItem);
+        });
+      })
+      .catch(error => {
+        console.error('Error al obtener los datos:', error);
+      });
+  </script>
+</body>
+</html>
