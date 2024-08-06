@@ -1,7 +1,7 @@
 # Backend  ![PHP](https://img.shields.io/badge/PHP-777BB4?)
 
 
- En esta sección se encontrarán los archivos de código fuente que dan la funcionalidad operativa a la aplicación web, además de la conexión y configuración a la Base de Datos Relacional (SQL) que permitirá la persistencia de los datos recolectados. 
+ En esta sección se encontrarán los archivos de código fuente que dan la funcionalidad operativa a la aplicación web, además de la conexión y configuración a la Base de Datos Relacional (SQL) que permitirá la persistencia de los datos recolectados y almacenados. 
 
 ## Estructura de Archivos
 
