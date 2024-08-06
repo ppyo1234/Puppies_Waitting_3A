@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # Puppies-Waiting
 
 ## Identidad grafica 
 |**LOGO DE LA MARCA**                                                                      |**LOGO DEL PROYECTO**                                                              |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0000.jpg)|![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0001.jpg)|
+|![](/FrontEnd/Assets/Logos/image.png)|![](/FrontEnd/Assets/Logos/image-1.png)|
 
 
 ## Descripción
@@ -126,7 +125,7 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 
 ## Paleta de colores 
 
-![](https://github.com/DanielGarciaPluma/Puppies-Waiting/blob/main/paleta%20de%20colores.jpg?raw=true)
+![](/FrontEnd/Assets/Paleta_colores/image.png)
 
 
 <hr>
@@ -164,7 +163,4 @@ Carlos Daniel Garcia Pluma [@DanielGarciaPluma](https://github.com/DanielGarciaP
   Sayurid Bautista Cruz [@sayuridbc](https://github.com/sayuridbc)
 
 Dulce Yadira Salvador Antonio [@Dul220509](https://github.com/Dul220509)
-=======
-"# Puppies_Waitting_3A" 
-"# Cambio temporal" 
->>>>>>> Arturo
+
