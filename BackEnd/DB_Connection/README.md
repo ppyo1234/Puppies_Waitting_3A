@@ -1,7 +1,6 @@
 # DB_Connection ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
  En esta sección se encontrarán las conecciónes de la base de datos de la aplicación web que se esta desarrollando utilizando Node.js y Express.
 
  ## Instalación
