@@ -22,5 +22,5 @@
 |------------|--------|---|---|
 |Sayurid Bautista Cruz|[@Sayuridbc](https://github.com/sayuridbc)|Líder FrontEnd|✅ Revisado .|
 |José Arturo Garcia González |[@ppyo1234](https://github.com/ppyo1234)|Desarrollador BackEnd|✅ Revisado y casi aprobado pero va muy bien.|
-|Carlos Daniel Garcia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador de BD|😔No ha revisado|
+|Carlos Daniel Garcia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador de BD|✅ Revisado y aprobado.|
 |Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|Desarrollador Documentacion|✅ Revisado y aprobado.|
