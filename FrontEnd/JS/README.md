@@ -22,5 +22,5 @@ En JavaScript existe contenido para hacer la página web interactiva como: mostr
 |------------|--------|---|---|
 |Sayurid Bautista Cruz|[@Sayuridbc](https://github.com/sayuridbc)|Líder FrontEnd|😔No ha revisado|
 |José Arturo Garcia González |[@ppyo1234](https://github.com/ppyo1234)|Desarrollador BackEnd|👍 Aun no se sube el JavaScript|
-|Carlos Daniel Garcia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador de BD|😔No ha revisado|
+|Carlos Daniel Garcia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador de BD|😔Aun faltan archivos|
 |Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|Desarrollador Documentacion|😔No ha revisado|
