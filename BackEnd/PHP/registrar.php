@@ -1,7 +1,7 @@
 <?php 
 
 include("con_db.php");
-//aqui ira toda la captura de datos para el backEnd
+//aqui va a ir toda la captura de datos para el backEnd
 if (isset($_POST['valores'])) {
     if (strlen($_POST['valores']) >= 1 && strlen($_POST['valores']) >= 1) {
 
