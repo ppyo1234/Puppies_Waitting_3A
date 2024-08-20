@@ -22,6 +22,6 @@
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |Carlos Daniel Garcia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Lider de Desarrollado BD|✅ Revisado y aprobado.|
-|Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)Documentador|😔No ha revisado|
+|Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|Documentador|✅ Revisado y aprobado.|
 |Sayurid Bautista Cruz|[@Sayuridbc](https://github.com/sayuridbc)|Desarrollador FrontEnd|😔No ha revisado|
 |José Arturo Garcia González |[@ppyo1234](https://github.com/ppyo1234)|Desarrollador BackEnd|✅ Revisado y aprobado.|
