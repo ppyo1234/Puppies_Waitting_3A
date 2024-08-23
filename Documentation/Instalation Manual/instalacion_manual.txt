@@ -1,0 +1,64 @@
+ 
+Manual de Usuario:
+ 
+Descripción de las Funcionalidades:	3
+Guía de Inicio Rápido:	2
+Información de Contacto:	3
+Instalación:	2
+Introducción:	2
+Mantenimiento:	3
+Manual de Usuario:	1
+Resolución de Problemas Comunes:	3
+
+Introducción:
+El objetivo de esta aplicación web es mejorar la vida de perritos de la calle en situación de abandono o maltrato, se espera que con esta aplicación gente que gusta de ayudar a los animales o que tenga ganas de tener un amigo de compañía pueda ayudar, reportar y adoptar desde la aplicación web.
+Objetivo del manual:
+Se espera que con este manual sea más fácil el uso de la página web, ayudando y explicando cómo se usaría y para qué sirve cada botón y parte de la interfaz gráfica.
+Objetivo.
+Se espera obtener donaciones para acelerar la vida de estos animalitos, y que más perros en situación de calle encuentren un hogar digno
+
+Instalación:
+No necesita instalación.
+
+Guía de Inicio Rápido:
+
+1.- Desde tu navegador entra al siguiente enlace:https://www.hostinger.mx/dominios?utm_campaign=Brand-Phrase|NT:Se|LO:MX&utm_medium=ppc&gad_source=1&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DpPOELttHw2n_jDKe-zYHVwKgR0hei127Tjo7W6OzOA5YHLkX_CwQEaAqtdEALw_wcB
+2.- Ya en la página principal encontraras dos botones:
+  -registrarse: que es para introducir tus datos y puedas iniciar sesión posteriormente.
+  	 -iniciar sesión: ya registrados tus datos al iniciar sesión te dejara entrar a conocer el formulario para poder generar una cita y poder conocer a los ´perritos en adopción.
+
+Descripción de las Funcionalidades:
+
+o	La página registra a nuevos usuarios guardando los datos de manera segura en una base de datos.
+o	La página inicia sesión con los datos guardados en el registro.
+o	Si ya eres usuario registrado puedes publicar comentarios o reportar perros en alguna situación en particular.
+o	Puedes donar dinero por medio de trasferencia o donaciones en especie en las ubicaciones que están visibles en la página.
+o	Puedes adoptar perritos que están disponibles para para tener una vida mejor.
+o	La página te da información de tips para cuidar a tus mascotas.
+o	La página muestra ubicaciones de refugios.
+o	La pagina recomienda veterinarias asociadas para una cómoda atención.
+
+
+
+Resolución de Problemas Comunes:
+o	Preguntas frecuentes y soluciones a problemas habituales.
+
+Mantenimiento:
+El mantenimiento de la página se hace cada fin de semana para dar seguimiento a adopciones o para aprobar solicitudes de citas y de adopciones.
+Éstas mismas se hacen por parte de cada desarrollador asociado, también para cualquier error que suceda por no guardar registros o subir publicaciones.
+
+
+Información de Contacto:
+o	Se muestran los números de veterinarias recomendadas.
+o	Se muestran los números de refugios.
+o	Se muestran ubicaciones de veterinarias.
+o	Se muestran ubicaciones de refugios
+o	Se muestran redes sociales.
+
+	
+Características del Manual de Usuario:
+•	Orientado al usuario final: Explica las funcionalidades desde la perspectiva del usuario, utilizando un lenguaje claro y sencillo.
+•	Instrucciones paso a paso: Proporciona guías detalladas sobre cómo realizar tareas específicas.
+•	Incluye imágenes y diagramas: Utiliza capturas de pantalla, diagramas o ilustraciones para facilitar la comprensión.
+•	Resolución de problemas: Ofrece soluciones a problemas comunes que el usuario podría encontrar.
+

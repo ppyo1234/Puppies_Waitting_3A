@@ -1,0 +1,17 @@
+HISTORIAS DE USUARIO (UHS)
+
+1.- como usuario de la aplicación web me gustaría ver a los perritos que están en adopción, ver su descripción, tamaño y estado de salud.
+
+2.- como usuario de la aplicación web quiero poder donar en especie en un lugar establecido.
+
+3.- como usuario de la aplicación web quiero poder ver ubicaciones de lugares donde ver físicamente a los perros
+
+4.- como usuario de la aplicación web me gustaría logearme para poder iniciar secion con los datos ya guardados.
+
+5.- como usuario de la aplicación web quisiera poder reportar a perros que necesiten ayuda.
+
+6.- como usuario de la aplicación web quisiera contar mi experiencia ayudando a la fundación.
+
+7.- como usuario de la aplicación web me gustaría saber algunos tipps o recomendaciones para cuidar a miss perros ya sea míos o adoptados 
+
+8.- como usuario de la aplicación web me gustaría saber el nombre o ubicación de veterinarias que me puedan recomendar.
