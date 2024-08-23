@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="user.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header class="header">
+        <h1>PUPPIES WAITING</h1>
+        </header>
+       
+
+    <nav id="navbar-example2" class="navbar bg-body-tertiary px-3 mb-3">
+        <a class="navbar-brand" href="#">INFORMACION</a>
+        <ul class="nav nav-pills">
+          <li class="nav-item">
+            <a class="nav-link" href="#scrollspyHeading1">Donar</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#scrollspyHeading2">Reportar</a>
+          </li>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Adoptar</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#scrollspyHeading3">Reportar</a></li>
+              <li><a class="dropdown-item" href="#scrollspyHeading4">Adoptar</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="#scrollspyHeading5">Donar</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-body-tertiary p-3 rounded-2" tabindex="0">
+        <h4 id="scrollspyHeading1">¿Como Donar?</h4>
+        <div class="donar"><img src="images/qr.jpg" width="20%" alt=""></div>
+        <ul>
+          <li>Escane el codigo QR en el cual podras registrar el monto de tu donación</li>
+          <li>Pon tus datos personales</li>
+          <li>Puedes consultar el número de cuenta asociado</li>
+          <li>¡También puedes donar ahora, da click en el boton!</li>
+        </ul>
+
+        <!-- Boton para donar- modal -->
+ <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  CLICK AQUI
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">MI DONACION</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form action="loginform"></form>
+          <label for="password" class="form-label">Nombre:</label>
+          <input type="text" class="form-control" id="name" placeholder="Introduce tu nombre" required>
+          <label for="password" class="form-label">Monto:</label>
+          <input type="number" class="form-control" id="num" placeholder="Monto a Donar" required>
+          <label for="password" class="form-label">Numero de Cuenta:</label>
+          <input type="number" class="form-control" id="number" placeholder="4532 3100 9999 1048" required>
+          </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">GUARDAR</button>
+      </div>
+    </div>
+  </div>
+</div><br></br>
+        <h4 id="scrollspyHeading2"></h4>
+        <h4 id="scrollspyHeading3">DESEO REPORTA UN CASO </h4>
+        <img src="images/123.jpg" width="20%" alt=""><br>
+        <p>Para nosotros es importante revisar los casos criticos que existen, es por eso que ahora puedes reportar algun caso que 
+          conozcas ya que es de mucha ayuda para que podamos rescatar y buscarles un hogar digno lleno de amor.
+        </p><br>
+        <ul>
+          <li>Recuerda que la información que nos brindas es totalmente confidencial</li>
+          <li>Puedes agregar archivos como: Imagenes, texto, videos, esto con la finalidad de que 
+            el reporte sea lo mas completo posible </li>
+        </ul>
+<!-- BOTON PRINCIPAL -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+  REPORTAR
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">CASO:</h1>
+        
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <input type="text" class="form-control" id="text" placeholder="Escribir" required>
+        <form action="/subir-archivo" method="post" enctype="multipart/form-data"> <br>
+          <input type="file" id="archivo" name="archivo">
+          
+      </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">CANCELAR</button>
+        <button type="button" class="btn btn-primary">ENVIAR</button>
+      </div>
+    </div>
+  </div>
+</div> <br></br>
+        
+        
+        <h4 id="scrollspyHeading4">¿ESTAS EN BUSCA DE UN CANINO? </h4>
+        <P>Con el objetivo de fomentar la adopcion responsable buscamos a personas que sean aptas para el cuidado y necesidades de un felino, alguien 
+          que pueda brindarle una mejor calidad de vida sin importar la raza, ya que es la principal causa por las
+          que suelen ser abandonados.
+        </P>
+        <ul>
+          <li>Caracteristicas por las cuales adoptar a un perrito Criollo es muy buna opcion.</li>
+          <li>Recuerda que si quieres ver a los perritos listos para ser adoptados te dirijas a <a class="nav-link" href="catalogo.html"><h4 style="color: blue;">Adoptar</h1></a></li>
+          <img src="images/perrito.jpg" width="30%" alt="">
+        </ul>
+        <footer class="footer">
+          <p>&copy; Siguenos en nuestras redes sociales de Puppies Waiting.</p>
+      </footer>
+</body>
+</html>
+
