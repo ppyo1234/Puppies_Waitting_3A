@@ -31,4 +31,4 @@ En este apartado se muestran los requisitos funcionales que especifican qué deb
 |Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|Líder de Documentacion|✅ Revisado y aprobado.|
 |Sayurid Bautista Cruz|[@Sayuridbc](https://github.com/sayuridbc)|Desarrollador FrontEnd|😔No ha revisado|
 |José Arturo Garcia González |[@ppyo1234](https://github.com/ppyo1234)|Desarrollador BackEnd|✅ Revisado y aprobado.|
-|Carlos Daniel Garcia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador de BD|😔No ha revisado|
+|Carlos Daniel Garcia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador de BD|✅ Revisado y aprobado.|
