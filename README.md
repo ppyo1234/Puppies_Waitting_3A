@@ -93,7 +93,7 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 
 ## Paleta de colores 
 
-![](/FrontEnd/Assets/Paleta_colores/image.png)
+![](images/paleta_de_colores.jpg)
 
 
 <hr>
