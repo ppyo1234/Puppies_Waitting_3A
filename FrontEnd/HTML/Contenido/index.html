@@ -1,34 +1,89 @@
-En HTML se pusieron lo que complemtenta el css, quí esta la informacion mostrada y todos los campos que son visibles para el usuario.
+<!DOCTYPE html>
+<html lang="es">
 
- <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PUPPIES WAITING</title>
-
+    <title>Puppies Waiting</title>
+    <link rel="stylesheet" href="index.css">
 </head>
+
 <body>
-    <header>
-        <h1>Bienvenido a PUPPIES WAITING</h1>
+    <header class="header">
+        <h1>PUPPIES WAITING</h1>
+
+        <div class="container">
+            <a href="pagina1.html" target="_blank" class="redirect-button">Iniciar Sesión</a>
+        </div>
     </header>
-    <nav>
-        <a href="#">Inicio</a>
-        <a href="#">Donar</a>
-        <a href="#">Reportar Caso</a>
-        <a href="#">Quiero ser socio</a>
-    </nav>
-    <div class="container">
-        <section>
-            <h2>Crear cuenta</h2>
-            <p>Esta es una sección principal de la página. Aquí puedes agregar tus datos para registrarte.</p>
+
+    <main>
+
+
+        <section id="breeds">
+            <h1 style="text-align: center;">¡BIENVENIDO!</h1>
+            <div class="card-container">
+                <div class="card">
+                    <img src="images/inicio.jpg" alt="">
+
+                </div>
+                <div class="card">
+                    <img src="images/e3dfcbfd-9371-42a8-bd41-f6cbd9702daa.jpg" alt="">
+                    <h3>CON TU AYUDA</h3>
+                    <P>Puppies Waiting es una fundacion dispuesta a marcar un futuro
+                        diferente para todos los cachorros, busca mejorar sus vidas con
+                        un compañero que les brinde una vida digna, somos rescatados esperando encontrar una familia.
+                    </P>
+                    </p>
+
+                </div>
+                <div class="card">
+                    <img src="images/familia (2).jpg" alt="Poodle">
+
+
+                </div>
+
+            </div>
         </section>
-        <section>
-            <h2>Ver galeria de los cachorros que buscan un  hogar</h2>
-            <p>Aquí hay más información o contenido adicional donde podras ver que cachorro busca un hogar o una casa temporal.</p>
+
+        <section id="contact">
+
+            <div class="card-container">
+                <div class="card">
+                    <h1>VISION</h1>
+                    <p>Nuestra visión es crear un mundo donde cada perro tenga la
+                        oportunidad de vivir una vida llena de amor, cuidado y dignidad. Nos esforzamos por ser líderes
+                        en la promoción de la adopción responsable, la educación comunitaria sobre el bienestar animal y
+                        la provisión de recursos esenciales para el cuidado y protección de los perros en situación de
+                        vulnerabilidad. Imaginamos un futuro en el que la compasión y el respeto hacia nuestros amigos
+                        de cuatro patas sean una norma universal, y donde cada perro tenga un hogar seguro y lleno de
+                        afecto, sin importar raza, edad, o condicion.</p>
+                    <img src="images/04b47c30-f8a3-4220-874e-ef8c86f4e601.jpg" alt="">
+
+                </div>
+                <div class="card">
+                    <img src="images/tips.jpg" alt="">
+
+                </div>
+                <div class="card">
+                    <h1>BUSCAMOS:</h1>
+                    <H4>Una Familia</H4>
+                    <img src="images/fc1d9ebf-9ed8-4b4a-bddc-f2c8fd1314e2.jpg" alt="Poodle" width="20px" height="10px">
+                    <h4>SOCIOS</h4>
+                    <img src="images/16824b4f-826c-4c9b-bde8-9dbea2c01111.jpg" alt="">
+
+
+                </div>
+
+            </div>
+
+
         </section>
-    </div>
-    <footer>
-        <p>&copy; Siguenos en nuestras rede sociales</p>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; Siguenos en nuestras redes sociales de Puppies Waiting.</p>
     </footer>
 </body>
+
 </html>
