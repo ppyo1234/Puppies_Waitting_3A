@@ -3,7 +3,7 @@
 ## Identidad grafica 
 |**LOGO DE LA MARCA**                                                                      |**LOGO DEL PROYECTO**                                                              |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|![](/FrontEnd/Assets/Logos/image.png)|![](/FrontEnd/Assets/Logos/image-1.png)|
+|![](images/logo_empresa.jpg)|![](images/logo_proyecto.jpg)|
 
 
 ## Descripción
