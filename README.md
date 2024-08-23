@@ -104,9 +104,9 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
-|José Arturo Garcia González|[@ppyo1234](https://github.com/ppyo1234)|Líder de Proyecto|✅ Aun faltan cosas pero vamos bien.|
+|José Arturo Garcia González|[@ppyo1234](https://github.com/ppyo1234)|Líder de Proyecto|✅ Tengo dudas en algunos aspectos pero todo marcha bien.|
 |Carlos Daniel Garcia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador BD|👎 Solo correjir palabras, de ahi todo bien por el momento.|
-|José Arturo Garcia González|[@ppyo1234](https://github.com/ppyo1234)|Desarrollo BackEnd|✅ Vamos bien.|
+|José Arturo Garcia González|[@ppyo1234](https://github.com/ppyo1234)|Desarrollo BackEnd|✅ Revisado.|
 |Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|Documentador|Leido y revisado👌.|
 |Sayurid Bautista Cruz|[@Sayuridbc](https://github.com/sayuridbc)|Desarrollador FrontEnd|😔 Falta por revisar.|
 
